@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://step-up-26b074e1.zappy5.app/sitemap.xml

@@ -1,0 +1,65 @@
+# Step-Up — Generative Engine Optimization Map
+
+> A fitness and wellness business.
+
+---
+
+## Pages
+
+### Home
+https://step-up-26b074e1.zappy5.app
+Build strength, fuel smart, and track every win. The complete system for athletes who want real progress—not just workouts.
+
+### Training
+https://step-up-26b074e1.zappy5.app/training
+Progressive training programs that build strength, endurance, and mobility. Designed for all levels from beginner to athlete.
+
+### Nutrition
+https://step-up-26b074e1.zappy5.app/nutrition
+Smart nutrition made simple. Learn the 50/25/25 plate method, daily targets, and flexible eating strategies for athletic performance.
+
+### Plans
+https://step-up-26b074e1.zappy5.app/plans
+Flexible training plans for every athlete. Start with a free week or upgrade to monthly for advanced features. No contracts, cancel anytime.
+
+### About
+https://step-up-26b074e1.zappy5.app/about
+Meet the team behind Step-Up. We believe in progress over perfection, building sustainable training habits for athletes of all levels.
+
+### Contact
+https://step-up-26b074e1.zappy5.app/contact
+Have questions about training, nutrition, or plans? Contact Step-Up and we'll respond within 24 hours. We're here to help you succeed.
+
+## Legal & Policy
+
+### Privacy Policy
+https://step-up-26b074e1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://step-up-26b074e1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://step-up-26b074e1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Step-Up
+Step-Up is a business in the fitness and wellness industry.
+
+## Target Audience
+16+
+
+## Industry
+fitness and wellness
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://step-up-26b074e1.zappy5.app/sitemap.xml
+- **Robots.txt**: https://step-up-26b074e1.zappy5.app/robots.txt
